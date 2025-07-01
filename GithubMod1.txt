@@ -1,0 +1,8 @@
+This is just a simple child learning for github.
+Here I first created a branch.
+Creating a file inside the child branch.
+Then Commiting the changes.
+
+After this Im going to merge this with the main branch.
+Im supposed to create a pull request.
+Since Im the creator of the current repository, Im also the administrator and Im gonna have the privilege to merge the pull request into the main branch.
